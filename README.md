@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on NestJS, Nuxt and Flutter
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on open-source projects
+- 🤔 I’m looking for help with front-end & design
+- 💬 Ask me about backend development and DevOps
+- 😄 Pronouns:  He/Him
