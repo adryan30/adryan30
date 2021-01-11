@@ -24,4 +24,4 @@ jobs:
           plugin_stars_limit: 4
           plugin_lines: yes
           plugin_traffic: yes
-          publin_habits: yes
+          plugin_habits: yes
