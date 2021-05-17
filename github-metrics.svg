@@ -1337,7 +1337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>freqtrade/freqtrade</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dogecoin/dogecoin</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1421,7 +1421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GitSquared/edex-ui</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1463,7 +1463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>paritytech/substrate</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1502,7 +1502,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone America/Sao_Paulo</span>
-                <span>Last updated Mon, 17 May 2021 22:16:14 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Mon, 17 May 2021 23:15:22 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
