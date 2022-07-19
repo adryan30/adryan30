@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gao-sun/eul</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🖥️ macOS status monitoring app written in SwiftUI.</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/rustlings</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -476,7 +476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serverless-stack/sst</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.</div>
@@ -526,7 +526,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2022, 22:22:30 (timezone America/Sao_Paulo) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 19 Jul 2022, 00:56:04 (timezone America/Sao_Paulo) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
